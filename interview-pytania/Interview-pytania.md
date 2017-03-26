@@ -9,3 +9,9 @@ Przykładowe pytania o pracę z Programowania Obiektowego (OOP)
 4. Co oznacza skrót DRY?
 
 5. Co to jest polimorfizm?
+
+6. Jaka jest różnica pomiędzy klasą abstrakcyjną, a interfejsem?
+
+7. Czy Java wspiera wielokrotne dziedziczenie?
+
+8. Czy klasa może implementować wiele interfejsów?
