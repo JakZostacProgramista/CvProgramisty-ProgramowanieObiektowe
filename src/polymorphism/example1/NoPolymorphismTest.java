@@ -29,11 +29,11 @@ public class NoPolymorphismTest {
 
         if (vehicle instanceof Bike) {
             Bike bike = (Bike) vehicle;
-            bike.go();
+            bike.pedal();
 
         } else if (vehicle instanceof Car) {
             Car car = (Car) vehicle;
-            car.go();
+            car.drive();
 
         } else if (vehicle instanceof Train) {
             Train train = (Train) vehicle;

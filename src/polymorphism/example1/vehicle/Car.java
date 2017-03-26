@@ -5,7 +5,7 @@ package polymorphism.example1.vehicle;
  */
 public class Car {
 
-    public void go() {
+    public void drive() {
         System.out.println("Odpaliłem samochód i wyjechałem z garażu!");
     }
 }
