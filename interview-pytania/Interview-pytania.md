@@ -1,4 +1,4 @@
-#Przykładowe pytania o pracę z Programowania Obiektowego (OOP)
+Przykładowe pytania o pracę z Programowania Obiektowego (OOP)
 
 1. Dlaczego stosujesz paradygmat programowania obiektowego (OOP)? Jakie problemy to rozwiązuje.
 
